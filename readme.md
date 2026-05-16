@@ -14,7 +14,7 @@ You can also work on Google Colab (in the cloud), where you won't have to instal
   - [pandasBonus-Answers.ipynb](https://colab.research.google.com/github/nuitrcs/pandas_intro/blob/main/pandasBonus-Answers.ipynb)
 
 ## Fork
-This fork contains my edits and also contains a virtual environment using `uv`.
+This fork contains my edits (pandas-Updated and pandas2-Updated files) and also contains a virtual environment using `uv`. The original files are also included for reference.
 
 ## Installation
 1. [Install the uv package manager](https://docs.astral.sh/uv/getting-started/installation/)
